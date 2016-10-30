@@ -1,2 +1,4 @@
 # hello---world
-ilk deneme
+
+
+Bu kodun ne işe yaradığını anlamadım. 
