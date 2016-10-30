@@ -1,2 +1,4 @@
 # hello---world
-ilk deneme
+
+
+asıl buna yazmam gerekiyormuş
